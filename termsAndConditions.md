@@ -2,6 +2,7 @@
 layout: page
 title: Terms and Conditions
 permalink: /termsAndConditions/
+published: true
 ---
 
 ### Welcome to carandaway Prize Draw.
@@ -34,7 +35,8 @@ permalink: /termsAndConditions/
 
 12. Car & Away takes no responsibility for entries that are delayed or lost due to technical reasons or otherwise.
 
-13. Any personal data that we collect in connection with this prize draw will be processed in accordance with the Data Protection Act 1998 and with our privacy policy (a copy of which can be viewed at http://carandaway.com/privacyPolicy/ ) and will only be used to administer this promotion, unless you have also checked the opt-in box within the Survey, in which case we may email you about baby-related products and services.
+13. Any personal data that we collect in connection with this prize draw will be processed in accordance with the Data Protection Act 1998 and with our privacy policy (a copy of which can be viewed at [http://carandaway.com/privacyPolicy/](http://carandaway.com/privacyPolicy/)
+) and will only be used to administer this promotion, unless you have also checked the opt-in box within the Survey, in which case we may email you about baby-related products and services.
 
 14. Car & Away reserves the right to withdraw or amend either the prize draw or these terms and conditions at any time, without notice if this is necessary for reasons beyond its reasonable control.
 
